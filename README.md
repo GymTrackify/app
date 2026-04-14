@@ -3,13 +3,13 @@
 ## 📌 Informações do App
 
 - Nome: GymTrackify
-- Versão: BETA 0.91
+- Versão: BETA
 - Data de Lançamento: ?
 - Plataforma: Web / Mobile (responsivo)
 - Categoria: Saúde & Fitness / Treinos
 - Licença: MIT
 
-## 🆕 Novidades da Versão 1.0
+## 🆕 Novidades da Versão BETA
 
 - ??
 - ??
